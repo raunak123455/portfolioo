@@ -18,7 +18,7 @@ const Projects = () => {
         />
         <ProjectCard
           title="Project Management System"
-          main="This app helps individuals and teams organize tasks, track progress, and collaborate seamlessly. With features to create, assign, and update tasks, it simplifies workflows and keeps everyone aligned. "
+          main="This app helps individuals and teams organize tasks, track progress, and collaborate seamlessly. With features to create, assign, and update tasks, it simplifies workflows and keeps everyone aligned "
           demo="https://task-finall.vercel.app/"
           source="https://github.com/raunak123455/Task-final/tree/main"
           img={pj}
