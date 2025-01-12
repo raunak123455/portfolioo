@@ -2,6 +2,7 @@ import React from "react";
 import ProjectCard from "./ProjectCard";
 import pj from "./Pj.png";
 import pj2 from "./St.png";
+import pj3 from "./defi.png";
 
 const Projects = () => {
   return (
@@ -27,6 +28,7 @@ const Projects = () => {
           main="This is a DeFi marketplace that allows users to create tokens, launch ICOs, and seamlessly trade or purchase tokens in a decentralized environment.
           demo ="https://defi-marketplace-2-tbfh.vercel.app/"
           source="https://github.com/raunak123455/DEFI-MARKETPLACE-2"
+          img={pj3}
         />
       </div>
     </div>
