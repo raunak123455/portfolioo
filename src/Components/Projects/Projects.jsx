@@ -22,10 +22,12 @@ const Projects = () => {
           source="https://github.com/raunak123455/Task-final/tree/main"
           img={pj}
         />
-        {/* <ProjectCard
-          title="Netflix Clone"
-          main="this is a blogging website created this ijsdjf l in next js and used some component library used some component library"
-        /> */}
+        <ProjectCard
+          title="DEFI Marketplace"
+          main="This is a DeFi marketplace that allows users to create tokens, launch ICOs, and seamlessly trade or purchase tokens in a decentralized environment.
+          demo ="https://defi-marketplace-2-tbfh.vercel.app/"
+          source="https://github.com/raunak123455/DEFI-MARKETPLACE-2"
+        />
       </div>
     </div>
   );
