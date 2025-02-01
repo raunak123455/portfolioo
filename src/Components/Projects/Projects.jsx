@@ -12,7 +12,7 @@ const Projects = () => {
         <ProjectCard
           title="Web Stories"
           main="This is a content platform where all the content are in the form of stories. Covering news, culture, lifestyle, and more, we aim to inform, inspire, and connect audiences with engaging, high-quality content tailored for today’s readers"
-          demo="https://webb-storyyfront.vercel.app/"
+          demo="https://raunakrana-ucf-055-webstory.vercel.app/"
           source="https://github.com/raunak123455/WEBB_STORYY/tree/main"
           img={pj2}
         />
