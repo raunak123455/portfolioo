@@ -10,10 +10,10 @@ const Projects = () => {
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
       <div className="py-12 px-8 flex flex-wrap gap-5">
         <ProjectCard
-          title="Web Stories"
-          main="This is a content platform where all the content are in the form of stories. Covering news, culture, lifestyle, and more, we aim to inform, inspire, and connect audiences with engaging, high-quality content tailored for today’s readers"
-          demo="https://raunakrana-ucf-055-webstory.vercel.app/"
-          source="https://github.com/raunak123455/WEBB_STORYY/tree/main"
+          title="Finance Dashboard"
+          main="Personal Investment Tracking Web App Designed and developed a responsive finance dashboard using modern web technologies to track and visualize personal investment data"
+          demo="https://finance-dashboard-rose.vercel.app/"
+          source="https://github.com/raunak123455/Finance-dashboard"
           img={pj2}
         />
         <ProjectCard
