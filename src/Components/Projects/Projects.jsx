@@ -30,6 +30,13 @@ const Projects = () => {
           source="https://github.com/raunak123455/DEFI-MARKETPLACE-2"
           img={pj3}
         />
+         <ProjectCard
+          title="URL shortener"
+          main="This is a full-stack application that shortens long URLs, tracks click analytics, and handles redirection using React, Node.js, Express, and MongoDB. Includes RESTful APIs, unique URL generation, and click tracking"
+          demo="https://url-shortner-theta-sage.vercel.app"
+          source="https://github.com/raunak123455/Url-shortner"
+          img={pj3}
+        />
       </div>
     </div>
   );
