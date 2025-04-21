@@ -11,6 +11,13 @@ const Projects = () => {
     <div id="Projects" className="p-10 md:p-24 text-white ">
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
       <div className="py-12 px-8 flex flex-wrap gap-5">
+          <ProjectCard
+          title="Job Finder"
+          main="This fullstack job finder platform is designed to simplify and streamline the job search and hiring process. Built with a modern and scalable tech stack, it provides seamless functionality for both job seekers and employers."
+          demo="https://naukri-ten.vercel.app/"
+          source="https://github.com/raunak123455/Naukri"
+          img={pj2}
+        />
         <ProjectCard
           title="Finance Dashboard"
           main="Personal Investment Tracking Web App Designed and developed a responsive finance dashboard using modern web technologies to track and visualize personal investment data"
