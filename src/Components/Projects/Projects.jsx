@@ -4,6 +4,8 @@ import pj from "./Pj.png";
 import pj2 from "./image.png";
 import pj3 from "./defi.png";
 import pj4 from "./url sh.png";
+import pj5 from "./Job.png";
+
 
 
 const Projects = () => {
@@ -16,7 +18,7 @@ const Projects = () => {
           main="This fullstack job finder platform is designed to simplify and streamline the job search and hiring process. Built with a modern and scalable tech stack, it provides seamless functionality for both job seekers and employers."
           demo="https://naukri-ten.vercel.app/"
           source="https://github.com/raunak123455/Naukri"
-          img={pj2}
+          img={pj5}
         />
         <ProjectCard
           title="Finance Dashboard"
