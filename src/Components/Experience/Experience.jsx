@@ -87,6 +87,31 @@ const Experience = () => {
 
           {activeCategory === "development" && (
             <div>
+               <div className="flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center">
+                <img src={in2} alt="folder" className="w-[60px] h-[50px]" />
+                <span className="text-white">
+                  <h2 className="leading-tight">SDE 1</h2>
+                  <h2>Vedaz</h2>
+                  <p className="text-sm leading-tight font-thin">
+                    August 2024 - July 2025
+                  </p>
+                  <ul className="text-sm p-2">
+                    <li>- Worked on Full Stack web app</li>
+                    <li>- Worked on Mobile app dev with React Natives</li>
+
+
+                    <a
+                      href="https://drive.google.com/drive/folders/1uO51egDkO-4mLFV8E4bP7tAmU73GXn5X"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <button className="mt-2 text-white py-1 px-3 text-sm hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-2xl bg-[#465697]">
+                        See Work
+                      </button>
+                    </a>
+                  </ul>
+                </span>
+              </div>
               <div className="flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center">
                 <img src={in2} alt="folder" className="w-[60px] h-[50px]" />
                 <span className="text-white">
