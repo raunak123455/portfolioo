@@ -20,6 +20,14 @@ const Projects = () => {
           source="https://github.com/raunak123455/Task-final/tree/main"
           img={pj}
         />
+                 <ProjectCard
+          title="Collaborative Whiteboard"
+          main="This project is a real-time collaborative whiteboard that allows multiple users to join a shared room and draw together instantly. It’s built with React (frontend), Node.js/Express (backend), and Socket.IO (real-time communication)."
+          demo="https://whitboarrd-wcqr.vercel.app/"
+          source="https://github.com/raunak123455/Collaborative-Whiteboard-draw-"
+          img={pj2}
+        />
+
          <ProjectCard
           title="Finance Dashboard"
           main="Personal Investment Tracking Web App Designed and developed a responsive finance dashboard using modern web technologies to track and visualize personal investment data"
