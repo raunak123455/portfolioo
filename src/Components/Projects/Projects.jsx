@@ -5,6 +5,9 @@ import pj2 from "./image.png";
 import pj3 from "./defi.png";
 import pj4 from "./url sh.png";
 import pj5 from "./Job.png";
+import pj6 from "./board.png";
+
+
 
 
 
@@ -25,7 +28,7 @@ const Projects = () => {
           main="This project is a real-time collaborative whiteboard that allows multiple users to join a shared room and draw together instantly. It’s built with React (frontend), Node.js/Express (backend), and Socket.IO (real-time communication)."
           demo="https://whitboarrd-wcqr.vercel.app/"
           source="https://github.com/raunak123455/Collaborative-Whiteboard-draw-"
-          img={pj2}
+          img={pj6}
         />
 
          <ProjectCard
